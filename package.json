@@ -16,7 +16,7 @@
     "react-test-renderer": "16.4.2"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "dev": "next",
     "build": "next build",
     "start": "next start"
